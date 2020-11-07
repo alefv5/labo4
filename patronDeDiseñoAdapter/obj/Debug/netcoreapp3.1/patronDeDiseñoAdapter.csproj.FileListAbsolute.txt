@@ -1,0 +1,13 @@
+D:\arqui\patronDeDiseñoAdapter\patronDeDiseñoAdapter\obj\Debug\netcoreapp3.1\patronDeDiseñoAdapter.csprojAssemblyReference.cache
+D:\arqui\patronDeDiseñoAdapter\patronDeDiseñoAdapter\obj\Debug\netcoreapp3.1\patronDeDiseñoAdapter.AssemblyInfoInputs.cache
+D:\arqui\patronDeDiseñoAdapter\patronDeDiseñoAdapter\obj\Debug\netcoreapp3.1\patronDeDiseñoAdapter.AssemblyInfo.cs
+D:\arqui\patronDeDiseñoAdapter\patronDeDiseñoAdapter\obj\Debug\netcoreapp3.1\patronDeDiseñoAdapter.csproj.CoreCompileInputs.cache
+D:\arqui\patronDeDiseñoAdapter\patronDeDiseñoAdapter\bin\Debug\netcoreapp3.1\patronDeDiseñoAdapter.exe
+D:\arqui\patronDeDiseñoAdapter\patronDeDiseñoAdapter\bin\Debug\netcoreapp3.1\patronDeDiseñoAdapter.deps.json
+D:\arqui\patronDeDiseñoAdapter\patronDeDiseñoAdapter\bin\Debug\netcoreapp3.1\patronDeDiseñoAdapter.runtimeconfig.json
+D:\arqui\patronDeDiseñoAdapter\patronDeDiseñoAdapter\bin\Debug\netcoreapp3.1\patronDeDiseñoAdapter.runtimeconfig.dev.json
+D:\arqui\patronDeDiseñoAdapter\patronDeDiseñoAdapter\bin\Debug\netcoreapp3.1\patronDeDiseñoAdapter.dll
+D:\arqui\patronDeDiseñoAdapter\patronDeDiseñoAdapter\bin\Debug\netcoreapp3.1\patronDeDiseñoAdapter.pdb
+D:\arqui\patronDeDiseñoAdapter\patronDeDiseñoAdapter\obj\Debug\netcoreapp3.1\patronDeDiseñoAdapter.dll
+D:\arqui\patronDeDiseñoAdapter\patronDeDiseñoAdapter\obj\Debug\netcoreapp3.1\patronDeDiseñoAdapter.pdb
+D:\arqui\patronDeDiseñoAdapter\patronDeDiseñoAdapter\obj\Debug\netcoreapp3.1\patronDeDiseñoAdapter.genruntimeconfig.cache
